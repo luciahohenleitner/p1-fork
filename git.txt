@@ -1,0 +1,45 @@
+PRACTICA 1
+
+1) git clone
+- Que significa: sirve para copiar un repositorio de GitHub a mi ordenador
+- Para que lo he usado: Para descargar mi repositorio p1-fork en mi ordenador y poder trabajar con él.
+- Log de la terminal: 
+Cloning into 'p1-fork'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 5 (from 1)
+Receiving objects: 100% (6/6), done.
+
+
+2) git status
+- Que significa: Muestra el estado del repositorio y si hay cambios pendientes.
+- Para que lo he usado: Para comprobar si había archivos nuevos o modificados antes de hacer commit
+- Log de la terminal: 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+3) git add
+- Que significa: Anade archivos al área de preparación para guardarlos en un commit
+- Para que lo he usado: Para preparar el archivo git.txt antes de guardarlo
+- Log de la terminal:
+
+
+4) git commit
+- Que significa: Guarda los cambios realizados en el repositorio con un mensaje
+- Para que lo he usado: para guardar el archivo git.txt en el historial del repositorio
+- Log de la terminal:
+
+
+5) git push
+- Que significa: Envia los cambios guardados en el ordenador al repositorio de GitHub
+- Para que lo he usado: Para subir el archivo git.txt a mi repositorio en GitHub
+- Log de la terminal:
+
+
+6) git checkout
+- Que significa: permite cambiar de rama o crear una nueva rama
+- Para que lo he usado: para crear una nueva rama de prueba y volver a la rama principal
+- Log de la terminal:
